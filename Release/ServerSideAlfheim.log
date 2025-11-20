@@ -1,0 +1,32 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (Release\) contém arquivos compartilhados de outro projeto (ServerSideAlfheim.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  MainProtect.cpp
+  SendPacketClient.cpp
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(189,1): warning C4102: 'originalcode': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(393,1): warning C4102: 'pop_out': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(395,4): warning C4102: 'originalcode': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(445,4): warning C4102: 'originalcode': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(554,3): warning C4102: 'originalcode': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(734,3): warning C4102: 'backPacketSent': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\SendPacketClient.cpp(759,3): warning C4102: 'originalcode': rótulo não referenciado
+  (compilando o arquivo fonte '/SendPacketClient.cpp')
+  
+  dllmain.cpp
+     Criando biblioteca C:\Users\marci\source\repos\ServerSideAlfheim\Release\adev.lib e objeto C:\Users\marci\source\repos\ServerSideAlfheim\Release\adev.exp
+  Gerando código
+  407 of 875 functions (46.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  ServerSideAlfheim.vcxproj -> C:\Users\marci\source\repos\ServerSideAlfheim\Release\adev.dll

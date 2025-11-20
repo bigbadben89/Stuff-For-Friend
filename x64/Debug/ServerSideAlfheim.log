@@ -1,0 +1,346 @@
+﻿  pch.cpp
+  BossAttackedMain.cpp
+  ChangeAppareanceMain.cpp
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(42,68): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(55,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(56,2): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(57,3): error C2065: 'push': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(57,8): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(57,8): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,3): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,3): error C2065: 'mov': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,7): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,7): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,12): error C2065: 'dword': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,18): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,18): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,22): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,28): error C2337: 'esp': atributo não encontrado
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,32): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\BossAttackedMain.cpp(58,32): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/BossAttackedMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(74,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(75,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(76,9): error C2065: 'mov': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(76,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(76,13): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,9): error C2065: 'mov': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'word'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,13): error C2065: 'word': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,18): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,18): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,22): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,28): error C2337: 'packetChangeAppareance': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(77,52): error C2059: erro de sintaxe: ','
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(288,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(289,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(290,9): error C2065: 'pushad': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'movzx'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,9): error C2065: 'movzx': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,15): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,15): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,20): error C2275: 'byte': esperava uma expressão em vez de um tipo
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,25): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,25): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,29): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,35): error C2337: 'ebx': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,39): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(291,39): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(325,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(327,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,9): error C2065: 'cmp': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'dword'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,13): error C2065: 'dword': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,19): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,19): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,23): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,29): error C2337: 'ecx': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,33): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(328,33): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(421,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(422,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,9): error C2065: 'cmp': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'dword'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,13): error C2065: 'dword': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,19): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,19): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,23): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,29): error C2337: 'ebx': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,33): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(423,33): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(490,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(491,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,9): error C2065: 'mov': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,13): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,18): error C2065: 'dword': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,24): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,24): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,28): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,34): error C2337: 'edi': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,38): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(493,38): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(505,11): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(506,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(507,9): error C2065: 'cmp': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(507,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ebx'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(507,13): error C2065: 'ebx': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(508,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'je'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(508,9): error C2065: 'je': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(508,12): error C2146: erro de sintaxe: ';' ausente antes do identificador 'check_slot_16'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(508,12): error C2065: 'check_slot_16': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(510,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'originalcode'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,9): error C2065: 'mov': identificador não declarado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'byte'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,22): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,28): error C2337: 'esp': atributo não encontrado
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,32): error C2143: erro de sintaxe: ']' ausente antes de '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\ChangeAppareanceMain.cpp(511,32): error C2059: erro de sintaxe: '+'
+  (compilando o arquivo fonte '/ChangeAppareanceMain.cpp')
+  
+  dllmain.cpp
+  Hook.cpp
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(11,27): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(11,27): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(11,43): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(11,43): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(13,12): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(13,12): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\Hook.cpp(13,3): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte '/Hook.cpp')
+  
+  MainProtect.cpp
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(6,32): error C2485: 'naked': atributo estendido não reconhecido
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(8,2): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,3): error C2065: 'cmp': identificador não declarado
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,7): error C2146: erro de sintaxe: ';' ausente antes do identificador 'dword'
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,7): error C2065: 'dword': identificador não declarado
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ptr'
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,13): error C2065: 'ptr': identificador não declarado
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,17): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ds'
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,23): error C3409: bloco de atributos vazio não é permitido
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,23): error C2143: erro de sintaxe: ']' ausente antes de 'constante'
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+C:\Users\marci\source\repos\ServerSideAlfheim\MainProtect.cpp(9,23): error C2059: erro de sintaxe: 'constante'
+  (compilando o arquivo fonte '/MainProtect.cpp')
+  
+  Gerando Código...

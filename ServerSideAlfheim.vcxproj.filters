@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Systems">
+      <UniqueIdentifier>{be98bd76-1adb-4f0b-90dd-6f1dc06e94f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Protect">
+      <UniqueIdentifier>{cc53b4bc-8b5f-4236-be68-f583ad0f67b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\DatabaseFunc">
+      <UniqueIdentifier>{c42a99e5-b1c2-44fc-8190-9bb955cd62cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\AutoBalance">
+      <UniqueIdentifier>{d05fb9a8-599d-46be-b279-5443eb49be31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="header.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="nanodbc\nanodbc.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="dllmain.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="BossAttackedMain.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeAppareanceMain.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="MainProtect.cpp">
+      <Filter>Arquivos de Origem\Protect</Filter>
+    </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="MapNames.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeFacctionCommand.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseFuncs.cpp">
+      <Filter>Arquivos de Origem\DatabaseFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Arquivos de Origem\DatabaseFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="SendPacketClient.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Arquivos de Origem\Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="BalanceFunction.cpp">
+      <Filter>Arquivos de Origem\AutoBalance</Filter>
+    </ClCompile>
+    <ClCompile Include="nanodbc\nanodbc.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ServerSideProject.rc">
+      <Filter>Arquivos de Recurso</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bitmap1.bmp">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="html1.htm" />
+  </ItemGroup>
+</Project>
