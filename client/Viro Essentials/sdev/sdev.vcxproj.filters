@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{68513513-d4e8-47c8-baec-e11ad6768888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\shaiya">
+      <UniqueIdentifier>{84e1ba66-ddf6-4f25-98e3-89a0bb316e0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\shaiya\include">
+      <UniqueIdentifier>{70582268-59a2-4fef-85b2-9638afc8f291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\shaiya\src">
+      <UniqueIdentifier>{b78fdabe-c3b9-4511-8b28-843deaa34ee7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\OwnKillTable">
+      <UniqueIdentifier>{252da9cb-58b9-425a-a3c8-c5a9476a12bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\FcCommand">
+      <UniqueIdentifier>{073df7a5-b6f7-410e-838f-74f6ab911e9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AntiCheat&amp;SahProtect">
+      <UniqueIdentifier>{88522a7f-3e27-4f46-a125-1617072b8474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\HPMode">
+      <UniqueIdentifier>{493de446-b9ae-4a8e-a3dd-94828f4f3c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\TeleportSystem">
+      <UniqueIdentifier>{0dff930e-b580-4d1c-84ee-339a166f9a9a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\main.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CCharacter.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CNetwork.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\resource.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\common.h">
+      <Filter>include\shaiya</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CItem.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CWorldMgr.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CDataFile.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\ItemInfo.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\SkillInfo.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\MobInfo.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\static.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\HexColor.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CQuickSlot.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Unknown.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CCharacterChat.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CStaticText.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CPlayerData.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CWindow.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CMonster.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\TargetType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Attribute.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\AuthStatus.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\BillingItem.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\ChatType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Country.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\CraftName.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Family.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Gems.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Grow.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Job.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\MotionType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\NpcType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\Sex.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\ShapeType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\PartyType.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+    <ClInclude Include="b64.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="encrypt.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="packet_utils.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="vigenere.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\shaiya\include\LocalRess.h">
+      <Filter>include\shaiya\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\dllmain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CNetwork.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CDataFile.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CWorldMgr.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\item_icon.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\custom_game.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\static.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\camera_limit.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\vehicle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\packet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\name_color.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\quick_slot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CQuickSlot.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CWindow.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\shaiya\src\CStaticText.cpp">
+      <Filter>include\shaiya\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\title.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Buttons.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\150RaidSlot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\EnableRessOptions.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="SendObjectsToMemory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="sentCommandChangeCountry.cpp">
+      <Filter>src\FcCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="Shiftx10Stat.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiCheat.cpp">
+      <Filter>src\AntiCheat&amp;SahProtect</Filter>
+    </ClCompile>
+    <ClCompile Include="GetPacket.cpp">
+      <Filter>src\OwnKillTable</Filter>
+    </ClCompile>
+    <ClCompile Include="SahProtect.cpp">
+      <Filter>src\AntiCheat&amp;SahProtect</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicOptions.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="FpsBoost.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Small_Icon.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="HPMode.cpp">
+      <Filter>src\HPMode</Filter>
+    </ClCompile>
+    <ClCompile Include="MapNames&amp;Pagination.cpp">
+      <Filter>src\TeleportSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="SendTeleport.cpp">
+      <Filter>src\TeleportSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="TeleportButton.cpp">
+      <Filter>src\TeleportSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="DebuffSeparate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MainRes.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoShiftTag.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="SeeOrangeStatus.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="FeedGlobal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeLocalRess.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="IDS.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdSkillBar.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="HoldShiftEnable3rdSkillBar.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="RaidClassCounter.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="countdown.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillDelayFixed.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="RankCap.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="RankKillCaps.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsColor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="login_background_color.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="VetManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponSkin&amp;Slot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CostumeEffect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="AllocEffects.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resources\sdev.rc">
+      <Filter>resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
